@@ -100,8 +100,3 @@ People contacted:
 
 1. Chanikya, chanukyalakamsani@ou.edu, He told to take top 'k' Names corresponding to each redacted word. 'k' can be any integer.  
 2. Gowtham Teja Kanneganti, gowthamkanneganti@ou.edu, He mentioned me about framing features as dictionary and later using dict vectorizer. He helped me to write predicted names for a given name to a file.
-
-Assumptions:
-1. For displaying stats, I am always displaying stats to /stats/stats.txt. It will also display stats to stderr or stdout but not to a file if mentioned through command line.  
-2. I assumed commonregex identifies all dates, street address, phone numbers.
-
